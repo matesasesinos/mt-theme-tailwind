@@ -17,3 +17,5 @@ In root directory, you have a file ``tailwind.front.config.js`` you can disable 
 [Tailwind DOCS Theme](https://tailwindcss.com/docs/theme)
 
 For development run ``npx mix watch``
+
+[WordPres Theme Handbook](https://developer.wordpress.org/themes/)
