@@ -1,15 +1,12 @@
 <?php
 
 /**
- * Matecito Elemento functions and definitions
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package Matecito_Elemento
  */
 
 if (!defined('_MT_VERSION')) {
-    // Replace the version number of the theme on each release.
     define('_MT_VERSION', '1.0.0');
 }
 
@@ -83,4 +80,3 @@ function mt_theme_scripts()
     wp_style_add_data('mt-theme-style', 'rtl', 'replace');
 }
 add_action('wp_enqueue_scripts', 'mt_theme_scripts');
-
