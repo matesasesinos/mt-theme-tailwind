@@ -1,8 +1,8 @@
 # Installation
 
-Clone respository
+Clone respository ``git clone https://github.com/matesasesinos/mt-theme-tailwind.git`` 
 
-RUN ```npm install```.
+RUN ``npm install``
 
 In root directory, you have a file ``tailwind.front.config.js`` you can disable this file in ``webpack.mix.js``, you can configure them with [this docs](https://tailwindcss.com/docs/configuration)
 
